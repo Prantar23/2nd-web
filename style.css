@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.manu-bar {
+    background-image: linear-gradient(to left red 40%, tomato 30px);
+}
+
+.nav-link {
+    font-weight: 900px;
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+.navbar-brand img {
+    height: 50px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+.puu-bg {
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+}
+
+.price {
+    color: tomato;
+}
+
+.button {
+    background-image: linear-gradient(to top, rgb(230, 74, 27) 10%, rgb(211, 110, 70) 50%);
+    border: none;
+    border-radius: 8px;
+    padding: 8px 25px;
+    cursor: pointer;
+    color: whitesmoke;
+}
+
+.catagories1 {
+    background-image: linear-gradient( to left, red 10%, tomato 50%);
+}
+
+.catagories2 {
+    background-image: linear-gradient(to left, darkblue 10%, skyblue 50%);
+}
+
+.catagories3 {
+    background-image: linear-gradient(to left, red 10%, yellow 60%);
+}
+
+.catagories1,
+.catagories2,
+.catagories3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.catagories h1 {
+    color: white;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightslategray;
+}
+
+#contact {
+    height: 300px;
+}
+
+#contact h6 {
+    color: tomato;
+    font-weight: bold;
+}
+
+.fotter {
+    text-align: center;
+}
